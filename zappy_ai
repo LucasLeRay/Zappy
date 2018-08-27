@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+
+# Imports
+from src.ai.main import main
+
+# Launcher
+if __name__ == '__main__':
+	exit(main())
