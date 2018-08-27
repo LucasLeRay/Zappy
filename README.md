@@ -52,8 +52,8 @@ Pour lancer l'I.A, exécutez la commande suivante:
 Pour lancer le client graphique, il faut exécuter le programme correspondant à votre système d'exploitation:
 
 * Linux: ```./ZappyLinux/ZappyLinux.x86_64```
-* Windows: ```./ZappyWIndows/ZappyWIndows.exe```
-* MacOs: ```./ZappyMac.app```
+* Windows: vous devez dézziper le fichier **ZappyWindows.zip**, ensuite vous pourrez exécuter: ```./ZappyWIndows/ZappyWIndows.exe```
+* MacOs: vous devez dézziper le fichier **ZappyMac.app.zip**, ensuite vous pourrez exécuter: ```./ZappyMac.app```
 
 ## Trailer
 [![Regarder le trailer](https://img.youtube.com/vi/1ZO8L_PyjQo/0.jpg)](https://www.youtube.com/watch?v=1ZO8L_PyjQo)
